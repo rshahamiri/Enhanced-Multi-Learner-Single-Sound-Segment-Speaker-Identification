@@ -6,3 +6,5 @@ Speaker Identification (SI) is the task of identifying an unknown speaker of an 
 
  Please cite:
 
+
+More on Enahanced Multi Learner framework: https://www.tandfonline.com/doi/abs/10.1080/0952813X.2021.1948921
